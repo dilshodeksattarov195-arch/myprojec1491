@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercarse",
+        "uuid": 4058502,
+        "checksum": "2dgb4l"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
